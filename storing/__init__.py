@@ -1,0 +1,1 @@
+from storing.storing_img import store
